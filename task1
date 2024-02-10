@@ -1,4 +1,11 @@
-a=8452
-b=6783
-Sum = a + b
-print(Sum)
+#завдача 1
+# a=8452
+# b=6783
+# Sum = a + b
+# print(Sum)
+
+#задача2
+a = 100
+b = 500
+print (a+b)
+print (str(a)+str(b))
