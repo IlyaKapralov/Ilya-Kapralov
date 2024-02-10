@@ -6,6 +6,6 @@
 
 #задача2
 a = 100
-b = 500
-print (a+b)
-print (str(a)+str(b))
+b = '500'
+print (str(a)+b)
+print (a+int(b))
